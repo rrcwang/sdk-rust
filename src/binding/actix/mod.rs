@@ -37,7 +37,7 @@
 //! }
 //! ```
 
-#![deny(rustdoc::broken_intra_doc_links)]
+#![deny(broken_intra_doc_links)]
 
 mod server_request;
 mod server_response;

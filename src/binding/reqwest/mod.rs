@@ -28,7 +28,7 @@
 //! # }
 //! ```
 
-#![deny(rustdoc::broken_intra_doc_links)]
+#![deny(broken_intra_doc_links)]
 
 mod client_request;
 mod client_response;
